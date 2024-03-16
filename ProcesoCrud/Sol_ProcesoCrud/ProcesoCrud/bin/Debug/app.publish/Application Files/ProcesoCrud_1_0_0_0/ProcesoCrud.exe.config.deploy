@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="ProcesoCrud.Properties.Settings.cn" connectionString="Data Source=DESKTOP-5DJ8DJ1;Initial Catalog=db_proceso_crud;User ID=desarrollo;Password=JeL23082;TrustServerCertificate=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+</configuration>
